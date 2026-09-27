@@ -9,14 +9,14 @@ Welcome to **MyCampus**! This is a simple, Flutter application built for the Sof
 3. **Class Routine**: A tabbed weekly schedule showing daily classes, timings, and rooms. It even includes a fun empty state for days with no classes!
 4. **Result Summary**: A dashboard showing semester grades. It features a dropdown to switch between semesters, a Bar Chart to visualize GPA trends, and accurately calculates the weighted overall CGPA.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **State Management**: `flutter_riverpod` (Clean and safe state management)
 - **Charts**: `fl_chart` (Used for the CGPA bar chart)
 - **Architecture**: Modular folder structure separating Models, Providers, Screens, and Reusable Widgets.
 - **Data**: Uses local mock data (No internet or backend required to test).
 
-## 🚀 How to Run the App
+##  How to Run the App
 
 Running this project is very easy. Just make sure you have Flutter installed on your machine, then follow these steps in your terminal:
 
@@ -37,7 +37,7 @@ Running this project is very easy. Just make sure you have Flutter installed on 
    ```
    *(You can run this on an Android Emulator, iOS Simulator, Chrome, or a physical device).*
 
-## 📂 Folder Structure Overview
+##  Folder Structure Overview
 
 ```text
 lib/
@@ -50,7 +50,7 @@ lib/
 └── theme/                    # App colors and typography
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="screenshots/login screen.jpeg" width="220" />
