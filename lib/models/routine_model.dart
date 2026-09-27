@@ -1,0 +1,13 @@
+class RoutineEntry {
+  final String subject;
+  final String time;
+  final String room;
+  final String teacher;
+
+  const RoutineEntry({
+    required this.subject,
+    required this.time,
+    required this.room,
+    required this.teacher,
+  });
+}
