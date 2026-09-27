@@ -1,10 +1,8 @@
 # MyCampus - Flutter Developer Challenge
 
-Welcome to **MyCampus**! This is a simple, beautiful Flutter application built for the SoftTaqwa Flutter Developer Challenge. It demonstrates clean code structure, modern UI/UX design, and efficient state management.
+Welcome to **MyCampus**! This is a simple, Flutter application built for the SoftTaqwa Flutter Developer Challenge. It demonstrates clean code structure, modern UI/UX design, and efficient state management.
 
-## 📱 What's Inside?
-
-Instead of building a massive app, this project focuses on doing a few things really well:
+##  What's Inside?
 
 1. **Static Login Screen**: A clean, modern entry point that simulates a login flow (UI only, no backend).
 2. **Notice Board**: A list of campus announcements. Tap on any notice to read the full details.
@@ -13,7 +11,6 @@ Instead of building a massive app, this project focuses on doing a few things re
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Flutter (using Material 3)
 - **State Management**: `flutter_riverpod` (Clean and safe state management)
 - **Charts**: `fl_chart` (Used for the CGPA bar chart)
 - **Architecture**: Modular folder structure separating Models, Providers, Screens, and Reusable Widgets.
@@ -25,7 +22,7 @@ Running this project is very easy. Just make sure you have Flutter installed on 
 
 1. **Clone the repository:**
    ```bash
-   git clone <insert-your-repo-link-here>
+   git clone https://github.com/rafiul-dev/softtaqwa_task.git
    cd softtaqwa_task
    ```
 
@@ -62,6 +59,4 @@ lib/
   <img src="screenshots/result screen.jpeg" width="220" />
 </p>
 
----
-**Challenge:** SoftTaqwa — MyCampus 3-Day Challenge  
-**Submitted for:** Flutter Developer Position
+
